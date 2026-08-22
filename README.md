@@ -36,16 +36,21 @@ Make sure **Python 3** is installed on your computer.
 3. Open **Command Prompt** or **Terminal** in the project folder.
 4. Run the following command:
 
-```console
-python hangman.py
+      ''' bash
+      python hangman.py
+
 5. Enter a letter when prompted and start playing. 🎮
 
-# 📂 Project Structure
 
-CodeAlpha_Hangman_Game/
-│
+
+## 📂 **Project Structure**
+CodeAlpha_Hangman_Game
+
+
 ├── hangman.py
+
 ├── hangman-screenshot.png
+
 └── README.md
 
 ## 🎯 Learning Outcomes
